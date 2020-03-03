@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: Images/nn.svg "Modified Nvidia model architecture"
+[image1]: Images/nn.jpg "Modified Nvidia model architecture"
 [image2]: Images/architecture.png "Layer description"
 [image3]: Images/2020_03_01_15_33_15_760.jpg "Original image - center driving"
 [image4]: Images/2020_03_01_15_33_15_760_cropped.jpg "Cropped image - center driving"
@@ -68,7 +68,7 @@ The model was trained and validated on two different data sets (model.py lines 8
 
 #### 3. Model parameter tuning
 
-The model used an adam optimizer, so the learning rate was not tuned manually (model.py line 125).
+The model used the Adam optimizer, so the learning rate was not tuned manually (model.py line 125).
 
 #### 4. Appropriate training data
 
