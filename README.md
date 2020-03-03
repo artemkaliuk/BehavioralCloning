@@ -18,13 +18,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /nn.svg "Modified Nvidia model architecture"
-[image2]: /architecture.png "Layer description"
-[image3]: /2020_03_01_15_33_15_760.jpg "Original image - center driving"
-[image4]: /2020_03_01_15_33_15_760_cropped.jpg "Cropped image - center driving"
-[image5]: /center_2020_03_01_14_18_26_534.jpg "Recovery driving - roadside"
-[image6]: /center_2020_03_01_14_18_30_966.jpg "Recovery driving - lane center"
-[image7]: /loss.jpg "Training and validation loss"
+[image1]: Images/nn.svg "Modified Nvidia model architecture"
+[image2]: Images/architecture.png "Layer description"
+[image3]: Images/2020_03_01_15_33_15_760.jpg "Original image - center driving"
+[image4]: Images/2020_03_01_15_33_15_760_cropped.jpg "Cropped image - center driving"
+[image5]: Images/center_2020_03_01_14_18_26_534.jpg "Recovery driving - roadside"
+[image6]: Images/center_2020_03_01_14_18_30_966.jpg "Recovery driving - lane center"
+[image7]: Images/loss.jpg "Training and validation loss"
 
 
 ## Rubric Points
