@@ -18,13 +18,13 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: /nn.svg "Modified Nvidia model architecture"
-[image2]: /architecture.png "Layer description"
-[image3]: /2020_03_01_15_33_15_760.jpg "Original image - center driving"
-[image4]: /2020_03_01_15_33_15_760_cropped.jpg "Cropped image - center driving"
-[image5]: /center_2020_03_01_14_18_26_534.jpg "Recovery driving - roadside"
-[image6]: /center_2020_03_01_14_18_30_966.jpg "Recovery driving - lane center"
-[image7]: /loss.jpg "Training and validation loss"
+[image1]: Images/nn.svg "Modified Nvidia model architecture"
+[image2]: Images/architecture.png "Layer description"
+[image3]: Images/2020_03_01_15_33_15_760.jpg "Original image - center driving"
+[image4]: Images/2020_03_01_15_33_15_760_cropped.jpg "Cropped image - center driving"
+[image5]: Images/center_2020_03_01_14_18_26_534.jpg "Recovery driving - roadside"
+[image6]: Images/center_2020_03_01_14_18_30_966.jpg "Recovery driving - lane center"
+[image7]: Images/loss.jpg "Training and validation loss"
 
 
 ## Rubric Points
@@ -106,4 +106,4 @@ As the captured data was still biased in terms of centered driving (steering ang
 The data was randomly shuffled, split into the training and validation data set and put into training batches. Based on recommendations of the fellow Udacity students, 5 training epochs with Adam optimizer were used (thus no tuning of the learning rate needed). The resulting loss can be seen here:
 ![alt_text][image7]
 
-As a result, the car drives smoothly around the track, showing an impressive lane centering behavior and confidently tackling the sharp curves. The video can be found in the github repository for this project.
+As a result, the car drives smoothly around the track, showing an impressive lane centering behavior and confidently tackling the sharp curves. The video can be found in the github repository for this project (video.mp4).
